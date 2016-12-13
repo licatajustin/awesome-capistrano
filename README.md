@@ -1,8 +1,8 @@
 ## Awesome Capistrano
 
-A collection of useful gems for Capistrano.
+[<img src="http://capistranorb.com/images/CapistranoLogo.png" align="right" width="150">](http://capistranorb.com)
 
-![Capistrano Logo](http://capistranorb.com/images/CapistranoLogo.png)
+A collection of useful gems for Capistrano.
 
 ---
 
